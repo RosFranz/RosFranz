@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">I'm a **PhD candidate in astroparticle physics** with experience in **particle physics, Machine Learning models and data analysis**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h3>
+<h3 align="center">I'm a PhD candidate in Astroparticle Physics with +3 years of experience developing deep learning models and analysing petabyte-scale datasets. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h3>
 
 - 🔭 I’m currently working on [**antimatter searches in space**](https://github.com/RosFranz/DNNs_forAntiHe_inSpace)
 
