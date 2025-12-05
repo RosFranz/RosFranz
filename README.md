@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **francesco.rossi97@live.com**
 
-- 🔗 My LinkedIn profile [www.linkedin.com/in/francesco-rossi-413455248](www.linkedin.com/in/francesco-rossi-413455248)
+- 🔗 My LinkedIn profile [![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/francesco-rossi-413455248)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
